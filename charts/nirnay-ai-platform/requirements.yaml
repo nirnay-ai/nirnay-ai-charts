@@ -1,0 +1,7 @@
+dependencies:
+  - name: minio-operator
+    version: ~4.4.17
+    repository: https://operator.min.io/
+  - name: bitnami/mongodb
+    version: ~5.0.8
+    repository: https://charts.bitnami.com/bitnami
