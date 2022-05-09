@@ -1,4 +1,4 @@
-apiVersion: v3
+apiVersion: v2
 name: nirnay-ai-platform
 description: A Helm chart for Kubernetes
 
