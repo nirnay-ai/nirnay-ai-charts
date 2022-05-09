@@ -3,12 +3,12 @@ entries:
   nirnay-ai-platform:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-09T12:43:12.517615102Z"
+    created: "2022-05-09T12:50:45.714345692Z"
     description: A Helm chart for Kubernetes
-    digest: 1a1f0d69057ea8b0239a01856c821f672136b5907038b675a08b082141bc078f
+    digest: 0679ec16d2928deeb2f1e9fb2733b81c14e28422625a5303e68d07dd71d10b1f
     name: nirnay-ai-platform
     type: application
     urls:
     - https://hybridworkforce.github.io/nirnay-ai-charts/nirnay-ai-platform-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-09T12:43:12.516884502Z"
+generated: "2022-05-09T12:50:45.713259175Z"
