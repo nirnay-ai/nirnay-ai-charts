@@ -25,8 +25,8 @@ appVersion: "1.16.0"
 
 dependencies:
   - name: minio-operator
-    version: ~4.4.17
+    version: ~4.4.10
     repository: https://operator.min.io/
   - name: mongodb
-    version: ~5.0.8
+    version: ~12.1.0
     repository: https://charts.bitnami.com/bitnami
