@@ -1,3 +1,14 @@
+# Dependencies values
+minio-operator:
+  Release:
+    Namespace: minio-operator
+  metadata:
+    namespace: minio-operator
+
+mongodb:
+  metadata:
+    namespace: hai-mongodb
+
 # Default values for nirnay-ai-platform.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
